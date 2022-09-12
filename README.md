@@ -3,8 +3,9 @@
 
 
 
-https://github-readme-stats.vercel.app/api?username=eritomnoble
-https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs
-https://github-readme-stats.vercel.app/api?username=eritomnoble&count_private=true
-https://github-readme-stats.vercel.app/api?username=eritomnoble&show_icons=true)
-https://github-readme-stats.vercel.app/api?username=eritomnoble&show_icons=true&theme=radical
+<a href="https://github.com/eritomnoble">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eritomnoble&repo=github-readme-stats" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eritomnoble&repo=convoychat" />
+</a>
