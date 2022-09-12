@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eritom ferreira
+- <h2>👋 Hi, I’m Eritom ferreira</h2>
 - 📫 ferreiraeritom71@gmail.com
 ##
 <div>
