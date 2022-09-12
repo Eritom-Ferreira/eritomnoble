@@ -1,18 +1,6 @@
-- 👋 Hi, I’m @eritomnoble
+- 👋 Hi, I’m Eritom ferreira
 - 📫 ferreiraeritom71@gmail.com
 
-
-
-
-<div>
-<a href="https://github.com/eritomnoble/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/eritomnoble/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eritomnoble&repo=convoychat" />
-</a>
-
-<div/>
 
 
 
