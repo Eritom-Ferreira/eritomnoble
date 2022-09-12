@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eritom ferreira
 - 📫 ferreiraeritom71@gmail.com
-
+##
 <div>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -11,7 +11,7 @@
 
 </div>
 
-
+##
 
 <div align="center">
   <a href="https://github.com/eritomnoble">
